@@ -1,4 +1,4 @@
-git clone https://github.com/ItzVladik/extras
+git clone https://github.com/Modniykrokyy/extras.git
 cd extras
 chmod +x ../android/scripts/conv.sh
 ../android/scripts/conv.sh $ICON
