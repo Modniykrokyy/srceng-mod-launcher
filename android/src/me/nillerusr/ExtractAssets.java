@@ -1,6 +1,6 @@
 package me.nillerusr;
 
-import com.valvesoftware.source.MOD_REPLACE_ME.R;
+import com.valvesoftware.source.csso.R;
 
 import android.content.SharedPreferences;
 import java.io.FileOutputStream;

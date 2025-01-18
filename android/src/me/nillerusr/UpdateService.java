@@ -1,6 +1,6 @@
 package me.nillerusr;
 
-import com.valvesoftware.source.MOD_REPLACE_ME.R;
+import com.valvesoftware.source.csso.R;
 
 import android.content.*;
 import java.io.*;
